@@ -1,6 +1,10 @@
 similar alphabet
 
-a e m n 
+a e m n s t
+
+c d r x l
+
+u v w
 
 i j 
 
@@ -9,3 +13,11 @@ b f
 g h
 
 c o
+
+r u need improvement: low confidence
+
+v r u confusion
+
+t m n s i confusion
+
+i y confusion
